@@ -10,3 +10,6 @@ github_username: Zwaper
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-admin
