@@ -85,3 +85,4 @@ jekyll-spaceship:
     css:
       class: emoji
     src: https://github.githubassets.com/images/icons/emoji/
+    src: "/img/steam/"

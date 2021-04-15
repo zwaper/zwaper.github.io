@@ -1590,7 +1590,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #f3f5fa;
+  background: #383838;
   min-height: 40px;
   margin-top: 72px;
 }
@@ -1604,7 +1604,7 @@ section {
 .breadcrumbs h2 {
   font-size: 28px;
   font-weight: 600;
-  color: #37517e;
+  color: #ffffff;
 }
 
 .breadcrumbs ol {
@@ -1623,7 +1623,7 @@ section {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #4668a2;
+  color: #ffffff;
   content: "/";
 }
 
